@@ -13,9 +13,9 @@
 ### 👨‍💻 What I'm All About
 
 I love building things that are both functional and interesting. My focus is on:
-*   **Full-Stack Development:** Crafting experiences from the frontend to the backend.
-*   **Game Development:** Building immersive worlds and gameplay systems.
-*   **VR & 3D Projects:** Exploring the cutting edge of interactive technology.
+*   **Back-End Development :** i only do backend becasue why not .
+*   **Game Development:** i code games for fun.
+*   **VR & 3D Projects:** WHY THE HELL NOT GRAHHH.
 *   **Open Source:** Building tools I want to use and sharing them with others.
 
 ### 🛠️ My Tech Stack
