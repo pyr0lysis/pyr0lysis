@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm pyrolysis 🔥</h1>
-<h3 align="center">Im a really socially awkward person from Peru with plenty of experience coding</h3>
+<h3 align="center">A passionate developer & tinkerer from Peru</h3>
 
 <p align="center">
   <a href="https://github.com/pyr0lysis?tab=repositories&sort=stargazers">
@@ -13,25 +13,23 @@
 ### 👨‍💻 What I'm All About
 
 I love building things that are both functional and interesting. My focus is on:
-*   **Python Scripting & Automation:** Making the computer do the work.
-*   **Web Development:** Creating interactive experiences with Flask and modern JS.
-*   **Open Source:** Having some tools under access freely to the world
+*   **Full-Stack Development:** Crafting experiences from the frontend to the backend.
+*   **Game Development:** Building immersive worlds and gameplay systems.
+*   **VR & 3D Projects:** Exploring the cutting edge of interactive technology.
+*   **Open Source:** Building tools I want to use and sharing them with others.
 
 ### 🛠️ My Tech Stack
 
 **Languages & Frameworks:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Tools & Platforms:**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -40,11 +38,12 @@ I love building things that are both functional and interesting. My focus is on:
 
 Here are some of my proudest creations:
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[LoL-Predict](https://github.com/pyr0lysis/LoL-Predict)** | A machine learning model to predict the outcome of League of Legends matches. | Python, Scikit-learn, Pandas |
-| **[GoonFinder](https://github.com/pyr0lysis/GoonFinder)** | A sleek, custom-coded media browser to aggregate content from various art sites. | Python, PyQt6 |
-| **[Discord-Bot-Template](https://github.com/pyr0lysis/Discord-Bot-Template)** | A robust and feature-rich template for building Discord bots with ease. | Python, Discord.py |
+| Project | Description |
+| :--- | :--- |
+| **[ParadiseVR](https://github.com/Paradise-VR/backend)** | Backend development for a Virtual Reality experience. |
+| **[Goonfinder](https://github.com/PulchrasHusband/GoonFinder)** | A sleek, custom-coded media browser to aggregate content from various art sites. |
+| **[NEOLUMA](https://github.com/TsukimotoX/Neoluma)** | Contributing to a project focused on lighting and visual effects. |
+| **[Ayumr](https://github.com/Mistromy/Nirupama)** | Development on the Nirupama project. |
 
 > **💡 Pro Tip:** Click on the project names to check out their repositories!
 
@@ -64,7 +63,6 @@ Here are some of my proudest creations:
 ### 📫 How to Reach Me
 
 - **Discord:** `pyrolysis`
-- **Email:** *[noxiphotography@hotmail.com]*
 
 <p align="center">
     <a href="https://github.com/pyr0lysis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
