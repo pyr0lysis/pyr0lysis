@@ -40,10 +40,10 @@ Here are some of my proudest creations:
 
 | Project | Description |
 | :--- | :--- |
-| **[ParadiseVR](https://github.com/Paradise-VR/backend)** | Backend development for a Virtual Reality experience. |
+| **[ParadiseVR](https://github.com/Paradise-VR/backend)** | Backend development for a Virtual Reality experience similar to VRCHAT. |
 | **[Goonfinder](https://github.com/PulchrasHusband/GoonFinder)** | A sleek, custom-coded media browser to aggregate content from various art sites. |
-| **[NEOLUMA](https://github.com/TsukimotoX/Neoluma)** | Contributing to a project focused on lighting and visual effects. |
-| **[Ayumr](https://github.com/Mistromy/Nirupama)** | Development on the Nirupama project. |
+| **[NEOLUMA](https://github.com/TsukimotoX/Neoluma)** | Joint Development for an Custom programming language based on C++ for utilisation on all operating systems with a goal to make kt as easy to understand  |
+| **[Ayumr](https://github.com/Mistromy/Nirupama)** | Custom discord bot based on Chiru-San's Ayumi mascot  |
 
 > **💡 Pro Tip:** Click on the project names to check out their repositories!
 
