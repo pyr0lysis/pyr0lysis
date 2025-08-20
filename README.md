@@ -34,7 +34,7 @@ I love building things that are both functional and interesting. My focus is on:
 
 ---
 
-### 🔥 Featured Projects
+### 🥭 Featured Projects
 
 Here are some of my proudest creations:
 
@@ -62,7 +62,7 @@ Here are some of my proudest creations:
 
 ### 📫 How to Reach Me
 
-- **Discord:** `pyrolysis`
+- **Discord:** `pyrolysis.wav`
 
 <p align="center">
     <a href="https://github.com/pyr0lysis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
