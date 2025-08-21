@@ -66,7 +66,7 @@ Here are some of my proudest creations:
 
 <p align="center">
     <a href="https://github.com/pyr0lysis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://discord.com/users/441333832677326858"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discord.com/users/1295362722246168619"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
