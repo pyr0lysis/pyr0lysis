@@ -13,7 +13,7 @@
 ### 👨‍💻 What I'm All About, all THE snazzy stuff
 
 I love building things that are both functional and interesting. My focus is on:
-*   **Back-End Development :** i only do backend becasue why not .
+*   **"Full-Stack" Dev :** i do more backend but i can do both with some struggle 
 *   **Game Development:** i code games for fun.
 *   **VR & 3D Projects:** WHY THE HELL NOT GRAHHH.
 *   **Open Source:** Building tools I want to use and sharing them with others.
