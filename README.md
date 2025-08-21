@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm pyrolysis 🔥</h1>
-<h3 align="center">A passionate developer & tinkerer from Peru</h3>
+<h3 align="center">Im a midget sized (5,6) programmer from Peru with dreams</h3>
 
 <p align="center">
   <a href="https://github.com/pyr0lysis?tab=repositories&sort=stargazers">
@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 What I'm All About
+### 👨‍💻 What I'm All About, all THE snazzy stuff
 
 I love building things that are both functional and interesting. My focus is on:
 *   **Back-End Development :** i only do backend becasue why not .
