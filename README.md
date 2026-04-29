@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm pyrolysis 🔥</h1>
+<h1 align="center">Heya! fellas call me pyro online</h1>
 <h3 align="center">Im a midget sized (5,6) programmer from Peru with dreams</h3>
 
 <p align="center">
