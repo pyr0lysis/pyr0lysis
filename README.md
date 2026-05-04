@@ -10,24 +10,11 @@
 
 ---
 
-### 👨‍💻 What I'm All About, all THE snazzy stuff
+# i code bullshit
 
-I love building things that are both functional and interesting. My focus is on:
-*   **"Full-Stack" Dev :** i do more backend but i can do both with some struggle 
-*   **Game Development:** i code games for fun.
-*   **VR & 3D Projects:** WHY THE HELL NOT GRAHHH.
-*   **Open Source:** Building tools I want to use and sharing them with others.
-
-### 🛠️ My Tech Stack
-
-**Languages & Frameworks:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**i use uh...**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CMD](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 **Tools & Platforms:**
 
@@ -38,33 +25,22 @@ I love building things that are both functional and interesting. My focus is on:
 
 ### 🥭 Featured Projects
 
-Here are some of my proudest creations:
+some crap i worked on
 
 | Project | Description |
 | :--- | :--- |
 | **[ParadiseVR](https://github.com/Paradise-VR/backend)** | Backend development for a Virtual Reality experience similar to VRCHAT. |
 | **[Goonfinder](https://github.com/PulchrasHusband/GoonFinder)** | A sleek, custom-coded media browser to aggregate content from various art sites. |
-| **[NEOLUMA](https://github.com/TsukimotoX/Neoluma)** | Joint Development for an Custom programming language based on C++ for utilisation on all operating systems with a goal to make kt as easy to understand  |
 | **[Ayumr](https://github.com/Mistromy/Nirupama)** | Custom discord bot based on Chiru-San's Ayumi mascot  |
 
-> **💡 Pro Tip:** Click on the project names to check out their repositories!
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/pyr0lysis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pyr0lysis&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyr0lysis&theme=vision-friendly-dark&hide_border=true&layout=compact&langs_count=8&hide=html,css" />
-  </a>
-</p>
-
+RETIRED FROM 
+| **[NEOLUMA](https://github.com/TsukimotoX/Neoluma)** Joint Development for an Custom programming language based on C++ for utilisation on all operating systems with a goal to make kt as easy to understand  |
+ > Left due to conflict with owner on scheduling
 ---
 
 ### 📫 How to Reach Me
 
-- **Discord:** `pyrolysis.wav`
+- **Discord:** `pyro.wav`
 
 <p align="center">
     <a href="https://github.com/pyr0lysis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
