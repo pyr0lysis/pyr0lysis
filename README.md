@@ -23,6 +23,10 @@
 
 ---
 
+# MY BRAINCHILD
+
+## | **[Pyrite](https://github.com/pyr0lysis/Pyrite)** | Custom Streaming Client for music |
+
 ### 🥭 Featured Projects
 
 some crap i worked on
