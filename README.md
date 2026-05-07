@@ -46,6 +46,7 @@ RETIRED FROM
 ### 📫 How to Reach Me
 
 - **Discord:** `pyro.wav`
+- **Mail** - `pyro@florenko.moe`
 
 <p align="center">
     <a href="https://github.com/pyr0lysis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
