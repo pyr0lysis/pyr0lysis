@@ -1,13 +1,6 @@
 <h1 align="center">Heya! fellas call me pyro online</h1>
 <h3 align="center">Im a midget sized (5,6) programmer from Peru with dreams</h3>
 
-<p align="center">
-  <a href="https://github.com/pyr0lysis?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/pyr0lysis?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/pyr0lysis?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/pyr0lysis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
 ![Curren](https://tenor.com/view/umamusume-curren-chan-haii-caption-keinre-gif-4231688215642671942.gif)
 ---
 
