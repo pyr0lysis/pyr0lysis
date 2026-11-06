@@ -19,8 +19,18 @@
 
 ---
 
-## ⚡ Tech I work with
-```text
-Languages     ::  Python, JavaScript, Swift, Kotlin
-Tools & Git   ::  Git, VsCode
-Interests     ::  Software Development, Audio & Music Production, Bug Testing
+## 🛠️ Projects I work on
+
+| Project | Domain | Description |
+| :--- | :--- | :--- |
+| [**pyrite**](https://github.com/pyr0lysis/Pyrite) | **Development** | Personal coding project and utility suite. |
+| [**vorssaint-utils**](https://github.com/vorssaint/vorssaint-utils) | **Bug Testing / Beta** | Contribution and bugtesting utilities for Vorssaint. |
+| [**pyromagmatic**](https://github.com/pyr0lysis/PyroMagmatic) | **Software** | Custom software project and experimentation repository. |
+| [**pyrokan**](https://github.com/pyr0lysis/pyrokan) | **Workflow** | KanBan Styled Task Manager/Notetaking App |
+
+---
+
+<details>
+<summary>📂 <strong>Expanded Contributions To</strong> (Click to expand)</summary>
+- haha 67
+</details>
