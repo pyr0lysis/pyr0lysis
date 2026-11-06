@@ -21,6 +21,6 @@
 
 ## ⚡ Tech I work with
 ```text
-Languages     ::  Python, JavaScript / TypeScript, C / C++, Rust
-Tools & Git   ::  Git, GitHub, VS Code, Linux
+Languages     ::  Python, JavaScript, Swift, Kotlin
+Tools & Git   ::  Git, VsCode
 Interests     ::  Software Development, Audio & Music Production, Bug Testing
