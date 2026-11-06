@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <em>Hobbyist coder, developer, and musician. Taking things apart, building cool stuff for fun, and making music nowadays. Taken by my beloved <a href="https://github.com/layremoe"><strong>Layre <3</strong></a>.</em>
+  <em>Fullstack dev, photographer and music producer. Taken by my beloved <a href="https://github.com/layremoe"><strong>Layre <3</strong></a>.</em>
 </p>
 
 ---
