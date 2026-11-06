@@ -1,4 +1,4 @@
-## ay was poppin! I'm Pyro and I code for fun even  I make music nowadays 
+### ay was poppin! I'm Pyro and I code for fun even  I make music nowadays 
 
 
 <div align="center">
@@ -11,4 +11,4 @@
 - vorssaint (bugtester/beta)
 - pyromagmatic
 
-taken by my beloved <a href="https://github.com/layremoe<">/Layre.moe <3 </a>
+taken by my beloved <a href="https://github.com/layremoe<">Layre.moe <3 </a>
