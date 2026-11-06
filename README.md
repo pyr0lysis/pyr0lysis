@@ -31,6 +31,7 @@
 ---
 
 <details>
-<summary>📂 <strong>Expanded Contributions To</strong> (Click to expand)</summary>
-- haha 67
+<summary>📂 <strong>Contact To</strong> (Click to expand)</summary>
+- discord: pyro.wav
+  - email: pyro@florenko.moe
 </details>
