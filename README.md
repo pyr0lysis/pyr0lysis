@@ -7,7 +7,7 @@
 
 ## shit I work on
 
-- pyrite
+- <a href="https://github.com/pyr0lysis/Pyrite">pyrite</a>
 - vorssaint (bugtester/beta)
 - pyromagmatic
 
