@@ -11,4 +11,4 @@
 - vorssaint (bugtester/beta)
 - pyromagmatic
 
-taken by my beloved <a href="https://github.com/layremoe <">Layre.moe <3 </a>
+taken by my beloved <a href="https://github.com/layremoe <">Layre <3 </a>
