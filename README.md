@@ -31,7 +31,11 @@
 ---
 
 <details>
-<summary>📂 <strong>Contact To</strong> (Click to expand)</summary>
+<summary>🙏 <strong>Contact Me</strong> (Click to expand)</summary>
+  
 - discord: pyro.wav
-  - email: pyro@florenko.moe
+  
+- email: pyro@florenko.moe
+
+- website: https://pyrite.moe
 </details>
