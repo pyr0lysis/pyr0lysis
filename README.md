@@ -8,7 +8,8 @@
 ## shit I work on
 
 - <a href="https://github.com/pyr0lysis/Pyrite">pyrite</a>
-- vorssaint (bugtester/beta)
-- pyromagmatic
+- vorssaint (bugtester/beta) <href= https://github.com/vorssaint/vorssaint-utils
+- pyromagmatic <href=  <href= https://github.com/pyr0lysis/PyroMagmatic
+- pyrokan <href= 
 
 taken by my beloved <a href="https://github.com/layremoe <">Layre <3 </a>
