@@ -1,4 +1,4 @@
-# ay was poppin! I'm Pyro and I code for fun even through I make music nowadays 
+## ay was poppin! I'm Pyro and I code for fun even  I make music nowadays 
 
 
 <div align="center">
@@ -10,3 +10,5 @@
 - pyrite
 - vorssaint (bugtester/beta)
 - pyromagmatic
+
+taken by my beloved layre.moe <3
